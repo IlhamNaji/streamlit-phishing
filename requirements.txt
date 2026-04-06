@@ -4,4 +4,5 @@ scikit-learn
 lightgbm
 requests
 beautifulsoup4
+matplotlib
 python-whois
